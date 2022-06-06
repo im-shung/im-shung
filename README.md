@@ -1,4 +1,4 @@
-### Hi there 👋
+![im-shung's github stats](https://github-readme-stats.vercel.app/api?username=im-shung&show_icons=true&theme=radical)
 
 <!--
 **im-shung/im-shung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
