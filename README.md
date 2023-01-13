@@ -1,4 +1,4 @@
-![im-shung's github stats](https://github-readme-stats.vercel.app/api?username=im-shung&show_icons=true&theme=radical)
+![im-shung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=im-shung&show_icons=true&theme=great-gatsby)
 
 <!--
 **im-shung/im-shung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
